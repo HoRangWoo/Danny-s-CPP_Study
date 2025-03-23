@@ -7,8 +7,8 @@ int main()
 
 	//Multiple comparisons of conditional statements
 
-	//int x;
-	//std::cin >> x;
+	int x;
+	std::cin >> x;
 
 	// x > =5;
 	// x < =6;
