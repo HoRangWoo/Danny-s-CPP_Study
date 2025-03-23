@@ -26,10 +26,10 @@ int main()
 	}*/
 
 	//you can use to multiple conditionals in the query.
-	/*if ((x >= 3 && x <= 6) || (x >= 7 && x <= 12))
+	if ((x >= 3 && x <= 6) || (x >= 7 && x <= 12))
 	{
 		std::cout << "it's true";
-	}*/
+	}
 
 	// && AND Operator is return true When both conditions are true
 	// || OR a parts of the two conditions are true, return true
