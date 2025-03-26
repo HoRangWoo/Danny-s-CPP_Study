@@ -18,5 +18,29 @@
     <ClCompile Include="multiple.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Practice_ Con+Expression_Q01.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice_ Con+Expression_Q02.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice_ Con+Expression_Q03.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice_ Con+Expression_Q04.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice_ Con+Expression_Q05.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice_ Con+Expression_Q06.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice_ Con+Expression_Q07.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice_ Con+Expression_Q08.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -128,6 +128,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="multiple.cpp" />
+    <ClCompile Include="Practice_ Con+Expression_Q01.cpp" />
+    <ClCompile Include="Practice_ Con+Expression_Q02.cpp" />
+    <ClCompile Include="Practice_ Con+Expression_Q03.cpp" />
+    <ClCompile Include="Practice_ Con+Expression_Q04.cpp" />
+    <ClCompile Include="Practice_ Con+Expression_Q05.cpp" />
+    <ClCompile Include="Practice_ Con+Expression_Q06.cpp" />
+    <ClCompile Include="Practice_ Con+Expression_Q07.cpp" />
+    <ClCompile Include="Practice_ Con+Expression_Q08.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
